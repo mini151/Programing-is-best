@@ -1,2 +1,2 @@
-# Programing-is-best
-We can crete program Just coomment
+# Python virus
+Opens tabs too many
